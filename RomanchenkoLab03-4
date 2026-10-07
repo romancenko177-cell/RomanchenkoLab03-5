@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Мови програмування</title>
+</head>
+
+<body>
+
+<h2>Популярні мови програмування</h2>
+
+<table border="2"
+       cellspacing="3"
+       cellpadding="10"
+       bgcolor="#E6F4FF">
+
+    <tr>
+        <th>Мова програмування</th>
+        <th>Рік створення</th>
+        <th>Автор</th>
+        <th>Призначення</th>
+    </tr>
+
+    <tr>
+        <td>Python</td>
+        <td>1991</td>
+        <td>Гвідо ван Россум</td>
+        <td>Веб-розробка, аналіз даних, штучний інтелект</td>
+    </tr>
+
+    <tr>
+        <td>Java</td>
+        <td>1995</td>
+        <td>Джеймс Гослінг</td>
+        <td>Мобільні програми та серверні застосунки</td>
+    </tr>
+
+    <tr>
+        <td>JavaScript</td>
+        <td>1995</td>
+        <td>Брендан Айк</td>
+        <td>Створення інтерактивних веб-сторінок</td>
+    </tr>
+
+    <tr>
+        <td>C++</td>
+        <td>1985</td>
+        <td>Б'ярн Страуструп</td>
+
+        <td>
+            <img
+            src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
+            width="100"
+            alt="Логотип C++">
+        </td>
+    </tr>
+
+</table>
+
+</body>
+</html>
