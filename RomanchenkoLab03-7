@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Характеристики студентів</title>
+</head>
+
+<body>
+
+<table border="1"
+       cellspacing="0"
+       cellpadding="6"
+       width="70%"
+       align="center">
+
+    <tr>
+        <td rowspan="2" colspan="2"></td>
+
+        <td colspan="2">
+            Характеристики
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            Кількість студентів
+        </td>
+
+        <td>
+            Якість успішності
+        </td>
+    </tr>
+
+    <tr>
+        <td rowspan="3">
+            Спеціальність
+        </td>
+
+        <td align="center">
+            Комп'ютерна<br>
+            інженерія
+        </td>
+
+        <td align="center">
+            250
+        </td>
+
+        <td align="center">
+            80%
+        </td>
+    </tr>
+
+    <tr>
+        <td align="center">
+            Телекомунікації та<br>
+            радіотехніка
+        </td>
+
+        <td align="center">
+            200
+        </td>
+
+        <td align="center">
+            75%
+        </td>
+    </tr>
+
+    <tr>
+        <td align="center">
+            Електромеханіка
+        </td>
+
+        <td align="center">
+            150
+        </td>
+
+        <td align="center">
+            85%
+        </td>
+    </tr>
+
+</table>
+
+</body>
+</html>
