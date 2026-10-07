@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Комп'ютерна техніка</title>
+</head>
+
+<body>
+
+<h2 align="center">Комп'ютерна техніка</h2>
+
+<table border="1" cellspacing="0" cellpadding="10" width="80%" align="center">
+
+    <tr>
+        <th colspan="5">Основні компоненти комп'ютера</th>
+    </tr>
+
+    <tr>
+        <th>Пристрій</th>
+        <th>Виробник</th>
+        <th>Призначення</th>
+        <th>Тип</th>
+        <th>Зображення</th>
+    </tr>
+
+    <tr>
+        <td rowspan="2">Процесор</td>
+        <td>Intel</td>
+        <td>Обробка інформації</td>
+        <td>Core i5</td>
+
+        <td rowspan="2" align="center">
+            <img
+            src="https://upload.wikimedia.org/wikipedia/commons/6/64/Intel-logo-2022.png"
+            width="120"
+            alt="Intel">
+        </td>
+    </tr>
+
+    <tr>
+        <td>AMD</td>
+        <td>Виконання обчислень</td>
+        <td>Ryzen 5</td>
+    </tr>
+
+    <tr>
+        <td>Оперативна пам'ять</td>
+        <td colspan="2" align="center">
+            Kingston — тимчасове зберігання даних
+        </td>
+        <td>DDR4</td>
+        <td>16 GB</td>
+    </tr>
+
+</table>
+
+</body>
+</html>
