@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Успішність студентів</title>
+</head>
+
+<body>
+
+<table border="1"
+       cellspacing="0"
+       cellpadding="10"
+       width="75%"
+       align="center">
+
+    <caption>
+        <h2>Успішність студентів</h2>
+    </caption>
+
+    <tr>
+        <th>№</th>
+        <th>Прізвище та ім'я</th>
+        <th>Предмет</th>
+        <th>Оцінка</th>
+    </tr>
+
+    <tr align="left">
+        <td>1</td>
+        <td>Іваненко Олександр</td>
+        <td>Програмування</td>
+        <td>95</td>
+    </tr>
+
+    <tr align="center">
+        <td>2</td>
+        <td>Петренко Марія</td>
+        <td>Математика</td>
+        <td>88</td>
+    </tr>
+
+    <tr align="right">
+        <td>3</td>
+        <td>Коваленко Андрій</td>
+        <td>Бази даних</td>
+        <td>91</td>
+    </tr>
+
+    <tr align="left">
+        <td>4</td>
+        <td>Шевченко Анна</td>
+        <td>Комп'ютерні мережі</td>
+        <td>85</td>
+    </tr>
+
+    <tr align="center">
+        <td>5</td>
+        <td>Бондаренко Максим</td>
+        <td>Веб-технології</td>
+        <td>97</td>
+    </tr>
+
+    <tr align="right">
+        <td>6</td>
+        <td>Ткаченко Софія</td>
+        <td>Англійська мова</td>
+        <td>90</td>
+    </tr>
+
+    <tr align="center">
+        <td>7</td>
+        <td>Мельник Дмитро</td>
+        <td>Фізика</td>
+        <td>82</td>
+    </tr>
+
+</table>
+
+</body>
+</html>
